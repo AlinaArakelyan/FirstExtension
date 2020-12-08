@@ -1,0 +1,12 @@
+{
+    "name": "Alina's Super Awesome Extension",
+    "version": "1.0",
+    "description": "My first extension!",
+    "permissions": ["storage"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "manifest_version": 2
+  }
+  
